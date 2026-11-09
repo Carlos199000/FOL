@@ -119,3 +119,8 @@ El propósito fundamental del BIOS es iniciar, y probar el hardware del sistema 
 - Pantalla
 - Teclado
 - Cascos
+
+## Próximas mejoras
+- Tipos de conectores
+- Cómo actualizar la BIOS
+- Cómo actualizar los controladores

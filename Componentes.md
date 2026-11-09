@@ -17,11 +17,20 @@ En esta guía se describirá los componentes de un ordenador y sus utilidades.
 ## 1. Componentes y utilidades
 #### 1. **Cpu o Procesador**:
  su trabajo es ejecutar los programas de manera continua y gestionar la interacción con los periféricos y el resto de los componentes del ordenador.
+ 
+ * *Núcleos de un procesador:* Su función principal es leer, interpretar y ejecutar instrucciones y cálculos, permitiendo que la computadora realice varias acciones al mismo tiempo (multitarea y procesamiento paralelo) 
 
+* *hilos de un procesador:* Su función principal es dividir y gestionar las tareas de forma más eficiente, permitiendo que cada núcleo físico de la CPU trabaje con más de un flujo de datos al mismo tiempo.
 ![CPU](https://pc-solucion.es/wp-content/uploads/2017/06/que-es-cpu.jpg)
 
 #### 2. **Tarjeta Gráfica**: 
 su trabajo es liberar al procesador de tener que mostrar y calcular los gráficos que vemos en la pantalla o el monitor.
+
+- Puede ser: 
+    - Integrada: Viene dentro del mismo procesador (CPU) o placa base. (comparte la memoria RAM del sistema)
+    - Dedicada: Es un componente independiente que se instala por separado en la placa base.(cuenta con su propia memoria exclusiva llamada VRAM)
+
+>Si se usa para ofimática que no requiera una potencia alta se recomienda la integrada por el costo.
 
 ![GPU](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-graphics-cards/geforce-rtx-2080-technical-photography-angled-004-850px.png)
 

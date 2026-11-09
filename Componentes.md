@@ -54,16 +54,16 @@ Hay que recalcar que existen tres tipos de disco duros:
 | Tipo               |  Velocidad         | Precio             |  Resistencia       |
 |--------------------|--------------------|--------------------|--------------------|
 | HDD                | Baja (150mb)       | Muy bajo           | Frágil (piezas móviles)|
-| SSD                | Media (550mb)      | Medio              | Alta               |
-| NVMe               | Muy alta (1500mb)  | Alto               | Alta               |
+| SSD SATA             | Media (550mb)      | Medio              | Alta               |
+| SSD NVMe               | Muy alta (1500mb)  | Alto               | Alta               |
 
-> Recalcar que el NVMe a diferencia del SSD y HDD, tiene que ser instalado en la ranura M2 de la placa, y el SSD y HDD pueden ser instalador por medio de USB (externo) o conectados a la placa.
+> Recalcar que el SSD NVMe a diferencia del SSD SATA y HDD, tiene que ser instalado en la ranura M2 de la placa (o con un adaptador de PCIe) , y el SSD y HDD pueden ser instalador por medio de USB (externo) o conectados a la placa (conector SATA).
 
 ### HHD
 ![HDD](https://img.pccomponentes.com/articles/5/52021/22.jpg) 
-### SSD
+### SSD SATA
 ![SSD](https://m.media-amazon.com/images/I/61PmESVGGTL.jpg) 
-### NVMe 
+### SSD NVMe 
 ![NVMe](https://thumb.pccomponentes.com/w-530-530/articles/24/245950/2.jpg) 
 
 #### 6. **Fuente de alimentación**:

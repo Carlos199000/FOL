@@ -98,3 +98,7 @@ El comando *systeminfo* muestra información detallada sobre el ordenador y su s
 
 [Lista de comandos de cmd](https://www.dos-a-la-tres.com/Aplicaciones/Programacion-de-Pol-Software/Documentos-y-Sitios-Recomendados/Manuales-de-Formacion/Manual-de-Comandos-de-CMD-Windows-11.pdf) 
 
+## BIOS
+![BIOS de una placa Asus](https://kmpic.asus.com/images/2020/08/13/d621a106-c217-4ec0-b58a-cc3feef1b879.png)
+
+El propósito fundamental del BIOS es iniciar, y probar el hardware del sistema y cargar un gestor de arranque o un sistema operativo desde un dispositivo de almacenamiento de datos. Además, el BIOS provee una capa de abstracción para el hardware, por ejemplo, que consiste en una vía para que los programas de aplicaciones y los sistemas operativos interactúen con el teclado, el monitor y otros dispositivos de entrada/salida.
